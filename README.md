@@ -1,4 +1,4 @@
-Mi A2 Lite Custom Roms
+**Mi A2 Lite Custom Roms**
 
 |                           Rom Name                           | Android Version |                        Download link                         |  Status  |                          Developer                           | Official | Continues | OTA  |
 | :----------------------------------------------------------: | :-------------: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :------: | :-------: | :--: |
@@ -21,4 +21,3 @@ Mi A2 Lite Custom Roms
 | [Bliss ROM](https://forum.xda-developers.com/mi-a2-lite/development/10-0-bliss-rom-v12-5-xiaomi-mi-a2-lite-t4072705) |      10.0       | [Mega](https://mega.nz/#!7NFEECrR!GQawiMXLoAT2xufFqJ5QGjCPxThp2eCOEvuc-ATPyGY) | UPDATED  | [krzy12](https://forum.xda-developers.com/member.php?u=5938081) |    ❌     |     ✔     |  ❌   |
 | [MSM Xtended XQ](https://forum.xda-developers.com/mi-a2-lite/development/stable-msm-xtended-xq-release-v6-0-t4063845) |      10.0       | [Google Drive](https://drive.google.com/file/d/1fE23XX-Sjg5S032OJFoBK27dsrR8Uin2/view) | UPDATED  | [TogoFire](https://forum.xda-developers.com/member.php?u=4230687) |    ❌     |     ✔     |  ❌   |
 | [ExtendedUI](https://forum.xda-developers.com/mi-a2-lite/development/10-0-extendedui-xiaomi-mi-a2-lite-t4070989) |      10.0       | [SourceForge](https://sourceforge.net/projects/extendedui/files/daisy/) | UPDATED  | [pawelik001](https://forum.xda-developers.com/member.php?u=8419529) |    ✔     |     ✔     |  ?   |
-
