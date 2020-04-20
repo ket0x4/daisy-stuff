@@ -36,7 +36,7 @@
 |       9.0       | Miui 11 V.11.0.4  | [Goolge Drive](https://drive.google.com/file/d/1M-eDCqCL2ypKLLa8uWAPOxzInWln5xAA/view) |
 |       9.0       | Miui EU V11.0.5.0 | [Goolge Drive](https://drive.google.com/file/d/1-2htTk67oHQ9OuaKOxDWUJsiZDvs69sF/view) |
 
-**Kernels**
+###### **Kernels**
 
 |                         Kernel name                          | Supported Android Version | Linux Kernel Version |      Supoorted Roms       |                        Download Link                         |
 | :----------------------------------------------------------: | :-----------------------: | :------------------: | :-----------------------: | :----------------------------------------------------------: |
