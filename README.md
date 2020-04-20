@@ -1,5 +1,7 @@
 **Mi A2 Lite Custom Roms**
 
+**Android 10 Custom Roms**
+
 | Android Version |                           Rom Name                           |                        Download link                         |  Status  |                          Developer                           | Continues | Official | OTA  |
 | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :-------: | :------: | :--: |
 |      10.0       |                        AOSIP Derpfest                        | [SourceForge](https://sourceforge.net/projects/tunahan-s-builds/files/daisy-builds/DerpFest/) | UPDATED  |                        Tunahan Sahinn                        |     ✔     |    ✔     |  ❌   |
@@ -27,3 +29,12 @@
 |      10.0       |        [Havoc OS](https://t.me/A2LiteOfficial/154755)        | [SourceForge](https://sourceforge.net/projects/lupesoltec-builds/files/daisy/ten/havoc/Havoc-OS-v3.3-20200405-2019-daisy-UNOFFICIAL.zip/download) | UPDATED  |            [LuPeS0lTec](https://t.me/LuPeS0lTec)             |     ✔     |    ❌     |  ❌   |
 |      10.0       | [Lineage OS 17.1](https://forum.xda-developers.com/mi-a2-lite/development/lineageos-17-1-xiaomi-a2-lite-t4076439) | [AFH](https://androidfilehost.com/?fid=4349826312261762754)  | UPDATED  | [reujea0](https://forum.xda-developers.com/member.php?u=7249498) |     ✔     |    ❌     |  ❌   |
 |                 |                                                              |                                                              |          |                                                              |           |          |      |
+
+**Miui Ports**
+
+| Android Version |     Rom Name      |                        Download Link                         |
+| :-------------: | :---------------: | :----------------------------------------------------------: |
+|       9.0       |     HybridOS      | [Google Drive](https://drive.google.com/file/d/16fWuD78AvNY6ugHMBVs0iMcUodKZI2bx/view) |
+|       9.0       | Miui 11 V.11.0.4  | [Goolge Drive](https://drive.google.com/file/d/1M-eDCqCL2ypKLLa8uWAPOxzInWln5xAA/view) |
+|       9.0       | Miui EU V11.0.5.0 | [Goolge Drive](https://drive.google.com/file/d/1-2htTk67oHQ9OuaKOxDWUJsiZDvs69sF/view) |
+
