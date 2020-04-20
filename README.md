@@ -1,4 +1,4 @@
-**Android 10 Custom Roms**
+Android 10 Custom Roms**
 
 |                           Rom Name                           | Android Version |                          Developer                           |  Status  |                        Download link                         | Continues | Official | OTA  |
 | :----------------------------------------------------------: | :-------------: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :-------: | :------: | :--: |
@@ -28,6 +28,22 @@
 | [Lineage OS 17.1](https://forum.xda-developers.com/mi-a2-lite/development/lineageos-17-1-xiaomi-a2-lite-t4076439) |      10.0       | [reujea0](https://forum.xda-developers.com/member.php?u=7249498) | UPDATED  | [AFH](https://androidfilehost.com/?fid=4349826312261762754)  |     ✔     |    ❌     |  ❌   |
 | [Project Titanium](https://forum.xda-developers.com/mi-a2-lite/development/rom-projecttitanium-0-5-xiaomi-mi-a2-t4085665) |      10.0       | [ganomin](https://forum.xda-developers.com/member.php?u=9850043) | UPDATED  | [Mega](https://mega.nz/folder/CVU2hYTZ#yTD3p9cIGhp6WZdfHvXHmA) |     ✔     |    ✔     |  ✔   |
 
+**Android 9.0 (Pie) Custom Roms**
+
+|                           Rom Name                           |                          Developer                           |  Status  |                        Download link                         | Continues |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :-------: |
+| [Reloaded CAF](https://forum.xda-developers.com/mi-a2-lite/development/9-0-caf-reloaded-caf-mi-a2-lite-daisy-t3967509) | [tunasahin](https://forum.xda-developers.com/member.php?u=9165614) | Outdated | [Google Drive](https://drive.google.com/file/d/1q4te3ZkmVI_mCQ1yjRi6mkKekS944NGI/view?usp=drivesdk) |     ❌     |
+| [Viper OS](https://forum.xda-developers.com/mi-a2-lite/development/9-0-viperos-v6-3-xiaomi-mi-a2-lite-t3927195) | [Opal06](https://forum.xda-developers.com/member.php?u=8661641) | Outdated | [Viper OS Web](https://download.viperos.org/?codename=daisy) |     ❌     |
+| [AEX](https://forum.xda-developers.com/mi-a2-lite/development/9-0-aosp-extended-6-5-xiaomi-mi-a2-lite-t3930940) | [Acras01](https://forum.xda-developers.com/member.php?u=5583941) | Outdated | [Vanilla](https://drive.google.com/open?id=1MXZQr0jm1u3TWaoFKaAfP-1eRK0g7nj9) / [Gapps](https://drive.google.com/open?id=1BXduvu95Y6WKJqz8baVNSjSitxSFeYVF) |     ❌     |
+| [AOSIP](https://forum.xda-developers.com/mi-a2-lite/development/9-0-aosip-rom-t3929596) | [Opal06](https://forum.xda-developers.com/member.php?u=8661641) | Outdated | [Sourgeforge](https://sourceforge.net/projects/aosip-daisy-ota/files/builds/) |     ❌     |
+| [Resurrection Remix](https://forum.xda-developers.com/mi-a2-lite/development/9-0-resurrection-remix-v7-0-2-xiaomi-mi-t3926922) | [davidrocher](https://forum.xda-developers.com/member.php?u=8220724) | Outdated | [Resurrection Web](https://get.resurrectionremix.com/?dir=daisy) |     ❌     |
+| [Lineage OS 16](https://forum.xda-developers.com/mi-a2-lite/development/lineageos-16-0-xiaomi-mi-a2-lite-t3919060) | [33bca](https://forum.xda-developers.com/member.php?u=5296790) | Outdated | [AFH](https://androidfilehost.com/?fid=6006931924117920053)  |     ❌     |
+| [Superios OS](https://forum.xda-developers.com/mi-a2-lite/development/9-0-superioros-xiaomi-mi-a2-lite-t3946434) | [pawelik001](https://forum.xda-developers.com/member.php?u=8419529) | Outdated | [Sourceforge](https://sourceforge.net/projects/superioros/files/daisy/) |     ❌     |
+| [barebones Los 16](https://forum.xda-developers.com/mi-a2-lite/development/rom-barebones-lineageos-16-0-t3931121) | [Eskuero](https://forum.xda-developers.com/member.php?u=4495609) | Outdated | [Github](https://github.com/Eskuero/patches_lineageos/releases) |     ❌     |
+| [Paranoid Android](https://forum.xda-developers.com/mi-a2-lite/development/paranoid-android-pie-beta-xiaomi-mi-a2-t3912880) | [33bca](https://forum.xda-developers.com/member.php?u=5296790) | Outdated | [AFH](https://androidfilehost.com/?fid=1395089523397933724)  |     ❌     |
+| [Evolution X](https://forum.xda-developers.com/mi-a2-lite/development/rom-evolution-x-2-0-t3942647) | [Zidan44](https://forum.xda-developers.com/member.php?u=9782219) | Outdated | [SourceForge](https://sourceforge.net/projects/evolution-x/files/daisy/) |     ❌     |
+| [CypherOS](https://forum.xda-developers.com/mi-a2-lite/development/rom-cypheros-7-0-0-poundcake-unofficial-t3947303) | [Vitor00](https://forum.xda-developers.com/member.php?u=7824261) | Outdated | [Google Drive](https://drive.google.com/open?id=1ZtJPDbI1ZlB21iMdcGtMVXVFa5WrJ9-0) |     ❌     |
+
 **Miui Ports**
 
 | Android Version |     Rom Name      |                        Download Link                         |
@@ -38,7 +54,7 @@
 
 ###### **Kernels**
 
-|                         Kernel name                          | Supported Android Version | Linux Kernel Version |      Supoorted Roms       |                        Download Link                         |
+|                         Kernel name                          | Supported Android Version | Linux Kernel Version |      Supported Roms       |                        Download Link                         |
 | :----------------------------------------------------------: | :-----------------------: | :------------------: | :-----------------------: | :----------------------------------------------------------: |
 | [Loki Caf](https://forum.xda-developers.com/mi-a2-lite/development/msm8953-c-f-4-9-kernel-t4033815) |           10.0            |         4.9          |        Custom Roms        |  [Github](https://github.com/Aarqw12/kernel_loki/releases/)  |
 | [Chunchunmaru!](https://forum.xda-developers.com/mi-a2-lite/development/chunchunmaru-kernel-daisy-t4054441) |           10.0            |         4.9          |        Custom Roms        | [Google Drive](https://drive.google.com/file/d/17l7_jyHRAmVQv5PVsr68yXeWSPpD_Jj6/view) |
