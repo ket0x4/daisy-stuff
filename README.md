@@ -71,20 +71,23 @@ Android 10 Custom Roms**
 
 **Stock Roms**
 
-| Android Version |   Type   | Build number |                           Download                           |
-| :-------------: | :------: | :----------: | :----------------------------------------------------------: |
-|       9.0       | Fastboot |  V10.0.18.0  | [miui.com](http://bigota.d.miui.com/V10.0.18.0.PDLMIXM/daisy_global_images_V10.0.18.0.PDLMIXM_20200109.0000.00_9.0_a7b709656c.tgz) |
-|       9.0       | Fastboot |  V10.0.17.0  | [miui.com](http://bigota.d.miui.com/V10.0.17.0.PDLMIXM/daisy_global_images_V10.0.17.0.PDLMIXM_20191209.0000.00_9.0_8a03587b9f.tgz) |
-|       9.0       | Fastboot |  V10.0.16.0  | [miui.com](http://bigota.d.miui.com/V10.0.16.0.PDLMIXM/daisy_global_images_V10.0.16.0.PDLMIXM_20191108.0000.00_9.0_8454506408.tgz) |
-|       9.0       | Fastboot |  V10.0.13.0  | [miui.com](http://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz) |
-|       9.0       | Fastboot |  V10.0.12.0  | [miui.com](http://bigota.d.miui.com/V10.0.12.0.PDLMIXM/daisy_global_images_V10.0.12.0.PDLMIXM_20190717.0000.00_9.0_59368ef014.tgz) |
-|       9.0       | Fastboot |  V10.0.10.0  | [miui.com](http://bigota.d.miui.com/V10.0.10.0.PDLMIXM/daisy_global_images_V10.0.10.0.PDLMIXM_20190613.0000.00_9.0_f1adc81d8e.tgz) |
-|       9.0       | Fastboot |  V10.0.9.0   | [miui.com](http://bigota.d.miui.com/V10.0.9.0.PDLMIXM/daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz) |
-|       9.0       | Fastboot |  V10.0.7.0   | [miui.com](http://bigota.d.miui.com/V10.0.7.0.PDLMIXM/daisy_global_images_V10.0.7.0.PDLMIXM_20190318.0000.00_9.0_442d4f503e.tgz) |
-|       9.0       | Fastboot |  V10.0.3.0   | [miui.com](http://bigota.d.miui.com/V10.0.3.0.PDLMIXM/daisy_global_images_V10.0.3.0.PDLMIXM_20190114.0000.00_9.0_e8d8d4a6d0.tgz) |
-|       9.0       | Fastboot |  V10.0.2.0   | [miui.com](http://bigota.d.miui.com/V10.0.2.0.PDLMIFJ/daisy_global_images_V10.0.2.0.PDLMIFJ_20181221.0000.00_9.0_fed1fcdf5d.tgz) |
-|       8.1       | Fastboot |  V9.6.11.0   | [miui.com](http://bigota.d.miui.com/V9.6.11.0.ODLMIFF/daisy_global_images_V9.6.11.0.ODLMIFF_20181112.0000.00_8.1_8028e3bf1c.tgz) |
-|       8.1       | Fastboot |  V9.6.10.0   | [miui.com](http://bigota.d.miui.com/V9.6.10.0.ODLMIFF/daisy_global_images_V9.6.10.0.ODLMIFF_20181030.0000.00_8.1_141b42a73d.tgz) |
-|       8.1       | Fastboot |   V9.6.9.0   | [miui.com](http://bigota.d.miui.com/V9.6.9.0.ODLMIFF/daisy_global_images_V9.6.9.0.ODLMIFF_20181010.0000.00_8.1_baf840279a.tgz) |
-|       8.1       | Fastboot |   V9.6.4.0   | [miui.com](http://bigota.d.miui.com/V9.6.4.0.ODLMIFF/daisy_global_images_V9.6.4.0.ODLMIFF_20180724.0000.00_8.1_4afd3431a2.tgz) |
+| Android Version |   Type   | Build number |                           Download                           | Recommented |
+| :-------------: | :------: | :----------: | :----------------------------------------------------------: | :---------: |
+|       10        |   OTA    |  V11.0.5.0   | [miui.com](https://bigota.d.miui.com/V11.0.5.0.QDLMIXM/miui_DAISYGlobal_V11.0.5.0.QDLMIXM_4e152f6600_10.0.zip) |      ❌      |
+|       10        | Fastboot |  V11.0.4.0   | [miui.com](http://bigota.d.miui.com/V11.0.4.0.QDLMIXM/daisy_global_images_V11.0.4.0.QDLMIXM_20200404.0000.00_10.0_88297a8e92.tgz) |      ✔      |
+|       9.0       | Fastboot |  V10.0.18.0  | [miui.com](http://bigota.d.miui.com/V10.0.18.0.PDLMIXM/daisy_global_images_V10.0.18.0.PDLMIXM_20200109.0000.00_9.0_a7b709656c.tgz) |      ✔      |
+|       9.0       | Fastboot |  V10.0.17.0  | [miui.com](http://bigota.d.miui.com/V10.0.17.0.PDLMIXM/daisy_global_images_V10.0.17.0.PDLMIXM_20191209.0000.00_9.0_8a03587b9f.tgz) |      ❌      |
+|       9.0       | Fastboot |  V10.0.16.0  | [miui.com](http://bigota.d.miui.com/V10.0.16.0.PDLMIXM/daisy_global_images_V10.0.16.0.PDLMIXM_20191108.0000.00_9.0_8454506408.tgz) |      ❌      |
+|       9.0       | Fastboot |  V10.0.13.0  | [miui.com](http://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz) |      ✔      |
+|       9.0       | Fastboot |  V10.0.12.0  | [miui.com](http://bigota.d.miui.com/V10.0.12.0.PDLMIXM/daisy_global_images_V10.0.12.0.PDLMIXM_20190717.0000.00_9.0_59368ef014.tgz) |      ❌      |
+|       9.0       | Fastboot |  V10.0.10.0  | [miui.com](http://bigota.d.miui.com/V10.0.10.0.PDLMIXM/daisy_global_images_V10.0.10.0.PDLMIXM_20190613.0000.00_9.0_f1adc81d8e.tgz) |      ❌      |
+|       9.0       | Fastboot |  V10.0.9.0   | [miui.com](http://bigota.d.miui.com/V10.0.9.0.PDLMIXM/daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz) |      ❌      |
+|       9.0       | Fastboot |  V10.0.7.0   | [miui.com](http://bigota.d.miui.com/V10.0.7.0.PDLMIXM/daisy_global_images_V10.0.7.0.PDLMIXM_20190318.0000.00_9.0_442d4f503e.tgz) |      ❌      |
+|       9.0       | Fastboot |  V10.0.3.0   | [miui.com](http://bigota.d.miui.com/V10.0.3.0.PDLMIXM/daisy_global_images_V10.0.3.0.PDLMIXM_20190114.0000.00_9.0_e8d8d4a6d0.tgz) |      ❌      |
+|       9.0       | Fastboot |  V10.0.2.0   | [miui.com](http://bigota.d.miui.com/V10.0.2.0.PDLMIFJ/daisy_global_images_V10.0.2.0.PDLMIFJ_20181221.0000.00_9.0_fed1fcdf5d.tgz) |      ❌      |
+|       8.1       | Fastboot |  V9.6.11.0   | [miui.com](http://bigota.d.miui.com/V9.6.11.0.ODLMIFF/daisy_global_images_V9.6.11.0.ODLMIFF_20181112.0000.00_8.1_8028e3bf1c.tgz) |      ✔      |
+|       8.1       | Fastboot |  V9.6.10.0   | [miui.com](http://bigota.d.miui.com/V9.6.10.0.ODLMIFF/daisy_global_images_V9.6.10.0.ODLMIFF_20181030.0000.00_8.1_141b42a73d.tgz) |      ❌      |
+|       8.1       | Fastboot |   V9.6.9.0   | [miui.com](http://bigota.d.miui.com/V9.6.9.0.ODLMIFF/daisy_global_images_V9.6.9.0.ODLMIFF_20181010.0000.00_8.1_baf840279a.tgz) |      ❌      |
+|       8.1       | Fastboot |   V9.6.4.0   | [miui.com](http://bigota.d.miui.com/V9.6.4.0.ODLMIFF/daisy_global_images_V9.6.4.0.ODLMIFF_20180724.0000.00_8.1_4afd3431a2.tgz) |      ❌      |
 
+**Tools**
