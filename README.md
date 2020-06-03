@@ -91,3 +91,16 @@ Android 10 Custom Roms**
 |       8.1       | Fastboot |   V9.6.4.0   | [miui.com](http://bigota.d.miui.com/V9.6.4.0.ODLMIFF/daisy_global_images_V9.6.4.0.ODLMIFF_20180724.0000.00_8.1_4afd3431a2.tgz) |      ❌      |
 
 **Tools**
+
+|        Tool         |  Version   | Download |
+| :-----------------: | :--------: | :------: |
+| Mi Flash tool amd64 | 2016.04.01 |          |
+|    Mi Flash tool    |   7.4.25   |          |
+|        QPTS         |  2.7.480   |          |
+|        QFIL         |            |          |
+|                     |            |          |
+|                     |            |          |
+|                     |            |          |
+|                     |            |          |
+|                     |            |          |
+
