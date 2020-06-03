@@ -1,4 +1,4 @@
-Android 10 Custom Roms**
+**📱Android 10 Custom Roms****
 
 |                           Rom Name                           | Android Version |                          Developer                           |  Status  |                        Download link                         | Continues | Official | OTA  |
 | :----------------------------------------------------------: | :-------------: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :-------: | :------: | :--: |
@@ -28,7 +28,7 @@ Android 10 Custom Roms**
 | [Lineage OS 17.1](https://forum.xda-developers.com/mi-a2-lite/development/lineageos-17-1-xiaomi-a2-lite-t4076439) |      10.0       | [reujea0](https://forum.xda-developers.com/member.php?u=7249498) | UPDATED  | [AFH](https://androidfilehost.com/?fid=4349826312261762754)  |     ✔     |    ❌     |  ❌   |
 | [Project Titanium](https://forum.xda-developers.com/mi-a2-lite/development/rom-projecttitanium-0-5-xiaomi-mi-a2-t4085665) |      10.0       | [ganomin](https://forum.xda-developers.com/member.php?u=9850043) | UPDATED  | [Mega](https://mega.nz/folder/CVU2hYTZ#yTD3p9cIGhp6WZdfHvXHmA) |     ✔     |    ✔     |  ✔   |
 
-**Android 9.0 (Pie) Custom Roms**
+**📱Android 9.0 (Pie) Custom Roms**
 
 |                           Rom Name                           |                          Developer                           |  Status  |                        Download link                         | Continues |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :-------: |
@@ -44,7 +44,7 @@ Android 10 Custom Roms**
 | [Evolution X](https://forum.xda-developers.com/mi-a2-lite/development/rom-evolution-x-2-0-t3942647) | [Zidan44](https://forum.xda-developers.com/member.php?u=9782219) | Outdated | [SourceForge](https://sourceforge.net/projects/evolution-x/files/daisy/) |     ❌     |
 | [CypherOS](https://forum.xda-developers.com/mi-a2-lite/development/rom-cypheros-7-0-0-poundcake-unofficial-t3947303) | [Vitor00](https://forum.xda-developers.com/member.php?u=7824261) | Outdated | [Google Drive](https://drive.google.com/open?id=1ZtJPDbI1ZlB21iMdcGtMVXVFa5WrJ9-0) |     ❌     |
 
-**Miui Ports**
+**📱Miui Ports**
 
 | Android Version |     Rom Name      |                        Download Link                         |
 | :-------------: | :---------------: | :----------------------------------------------------------: |
@@ -52,7 +52,7 @@ Android 10 Custom Roms**
 |       9.0       | Miui 11 V.11.0.4  | [Goolge Drive](https://drive.google.com/file/d/1M-eDCqCL2ypKLLa8uWAPOxzInWln5xAA/view) |
 |       9.0       | Miui EU V11.0.5.0 | [Goolge Drive](https://drive.google.com/file/d/1-2htTk67oHQ9OuaKOxDWUJsiZDvs69sF/view) |
 
-###### **Kernels**
+###### **📱Kernels**
 
 |                         Kernel name                          | Supported Android Version | Linux Kernel Version |      Supported Roms       |                        Download Link                         |
 | :----------------------------------------------------------: | :-----------------------: | :------------------: | :-----------------------: | :----------------------------------------------------------: |
@@ -69,7 +69,7 @@ Android 10 Custom Roms**
 
 
 
-**Stock Roms**
+📱 **Stock Roms**
 
 | Android Version |   Type   | Build number |                           Download                           | Recommented |
 | :-------------: | :------: | :----------: | :----------------------------------------------------------: | :---------: |
@@ -90,17 +90,17 @@ Android 10 Custom Roms**
 |       8.1       | Fastboot |   V9.6.9.0   | [miui.com](http://bigota.d.miui.com/V9.6.9.0.ODLMIFF/daisy_global_images_V9.6.9.0.ODLMIFF_20181010.0000.00_8.1_baf840279a.tgz) |      ❌      |
 |       8.1       | Fastboot |   V9.6.4.0   | [miui.com](http://bigota.d.miui.com/V9.6.4.0.ODLMIFF/daisy_global_images_V9.6.4.0.ODLMIFF_20180724.0000.00_8.1_4afd3431a2.tgz) |      ❌      |
 
-**Tools**
+**🔧Tools** 
 
-|        Tool         |  Version   | Download |
-| :-----------------: | :--------: | :------: |
-| Mi Flash tool amd64 | 2016.04.01 |          |
-|    Mi Flash tool    |   7.4.25   |          |
-|        QPTS         |  2.7.480   |          |
-|        QFIL         |            |          |
-|                     |            |          |
-|                     |            |          |
-|                     |            |          |
-|                     |            |          |
-|                     |            |          |
+|        Tool         |  Version   |                           Download                           |
+| :-----------------: | :--------: | :----------------------------------------------------------: |
+| Mi Flash tool amd64 | 2016.04.01 | [Github](https://raw.githubusercontent.com/TheDoop/daisy-stuff/master/tools/MiPhone.exe) |
+|    Mi Flash tool    |   7.4.25   | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/MiFlashSetup_eng.msi) |
+|        QPTS         |  2.7.480   | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QPST.zip) |
+|        QFIL         |  2.0.2.3   | [Gtihub](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QFIL.zip) |
+|                     |            |                                                              |
+|                     |            |                                                              |
+|                     |            |                                                              |
+|                     |            |                                                              |
+|                     |            |                                                              |
 
