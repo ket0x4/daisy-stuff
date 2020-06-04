@@ -94,6 +94,14 @@
 |       8.1       | Fastboot |   V9.6.9.0   | [miui.com](http://bigota.d.miui.com/V9.6.9.0.ODLMIFF/daisy_global_images_V9.6.9.0.ODLMIFF_20181010.0000.00_8.1_baf840279a.tgz) |      ❌      |
 |       8.1       | Fastboot |   V9.6.4.0   | [miui.com](http://bigota.d.miui.com/V9.6.4.0.ODLMIFF/daisy_global_images_V9.6.4.0.ODLMIFF_20180724.0000.00_8.1_4afd3431a2.tgz) |      ❌      |
 
+**Custom Recovery**
+
+|        Name        | Official |                           Download                           |
+| :----------------: | :------: | :----------------------------------------------------------: |
+|        TWRP        |    ✔     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) |
+|    TWRP Offain     |    ❌     |                                                              |
+| OrangeFox Recovery |    ✔     |                                                              |
+
 **🔧Tools** 
 
 |        Tool         |  Version   |                           Download                           |
@@ -102,9 +110,4 @@
 |    Mi Flash tool    |   7.4.25   | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/MiFlashSetup_eng.msi) |
 |        QPTS         |  2.7.480   | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QPST.zip) |
 |        QFIL         |  2.0.2.3   | [Gtihub](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QFIL.zip) |
-|                     |            |                                                              |
-|                     |            |                                                              |
-|                     |            |                                                              |
-|                     |            |                                                              |
-|                     |            |                                                              |
 
