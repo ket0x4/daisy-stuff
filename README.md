@@ -4,6 +4,8 @@
 | :----------------------------------------------------------: | :-------------: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :-------: | :------: | :--: |
 |                             AEX                              |      10.0       |                            acras1                            | Updated  | [aospexteded.com](https://downloads.aospextended.com/daisy)  |     ✔     |    ✔     |  ✔   |
 | [POSP](https://forum.xda-developers.com/mi-a2-lite/development/9-0-potato-sauce-project-laciachan-t3953159) |      10.0       | [Lacia ~chan](https://forum.xda-developers.com/member.php?u=8295328) | Updated  | [SourceForge](https://sourceforge.net/projects/posp/files/daisy/croquette/) |     ✔     |    ✔     |  ❌   |
+| [Colt Os](https://forum.xda-developers.com/mi-a2-lite/development/unofficial-colt-os-mi-a2-litedaisy-t4111499/post82806791#post82806791) |      10.0       | [Hotorou](https://forum.xda-developers.com/member.php?u=10763893) | Updated  |                                                              |     ✔     |    ❌     |  ❌   |
+|                       Paranoid / AOSPA                       |      10.0       |              [マノエル](https://t.me/vmanoel00)              | Updated  | [Mega](https://mega.nz/file/oq50nIzC#uvY5yumT3g1O4apw_nnxH4Gc4l3-x4ioB7J-4QZB9NY) / [Telegram](https://t.me/newsmia2lite/370) |     ✔     |    ❌     |  ❌   |
 |        [Havoc OS](https://t.me/A2LiteOfficial/154755)        |      10.0       |            [LuPeS0lTec](https://t.me/LuPeS0lTec)             | Updated  | [SourceForge](https://sourceforge.net/projects/lupesoltec-builds/files/daisy/ten/havoc/Havoc-OS-v3.3-20200405-2019-daisy-UNOFFICIAL.zip/download) |     ✔     |    ✔     |  ✔   |
 | [Pixel Experience ](https://forum.xda-developers.com/mi-a2-lite/development/rom-pixel-experience-t4123633) |      10.0       | [Zidan44](https://forum.xda-developers.com/member.php?u=9782219) | Updated  | [pixelexperience.org](https://download.pixelexperience.org/daisy/) |     ✔     |    ✔     |  ✔   |
 | [MSM Xtended XQ](https://forum.xda-developers.com/mi-a2-lite/development/stable-msm-xtended-xq-release-v6-0-t4063845) |      10.0       | [TogoFire](https://forum.xda-developers.com/member.php?u=4230687) | Updated  |            [SourceForge](https://bit.ly/3dLqyiK)             |     ✔     |    ❌     |  ❌   |
@@ -100,13 +102,13 @@
 
 **Custom Recovery**
 
-|                             Name                             | Official |                           Download                           |                        Notes                         |
-| :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :--------------------------------------------------: |
-|                             TWRP                             |    ✔     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) |              Can't install custom roms               |
-|                         TWRP Offain                          |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-daisy-3.3.1-0-offain.zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-daisy-3.3.1-0-offain.img) | Can't decrypt stock rom, USB MTP won't work A10 Roms |
-|                      OrangeFox Recovery                      |    ✔     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/OrangeFox-R10.0_2-Stable-daisy.zip) |                          -                           |
-| [RedWolf Recovery](https://devotag.com/threads/redwolf-recovery-for-xiaomi-mi-a2-lite-daisy.766/) |    ❌     | [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/RedWolf.img) |                          -                           |
-| [PitchBlack Recovery](https://devotag.com/threads/pitchblack-recovery-for-mi-a2-lite-daisy.762/) |    ❌     |                                                              |                          -                           |
+|                             Name                             | Official |                           Download                           |           Notes           |
+| :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :-----------------------: |
+|                             TWRP                             |    ✔     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) | Can't install custom roms |
+|                    TWRP Offain(Fixed MTP)                    |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-daisy-3.3.1-0-offain_(FIX_USB_UNIVERSAL).zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-daisy-3.3.1-0-offain.img) |  Can't decrypt stock rom  |
+|                      OrangeFox Recovery                      |    ✔     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/OrangeFox-R10.0_2-Stable-daisy.zip) |             -             |
+| [RedWolf Recovery](https://devotag.com/threads/redwolf-recovery-for-xiaomi-mi-a2-lite-daisy.766/) |    ❌     | [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/RedWolf.img) |             -             |
+| [PitchBlack Recovery](https://devotag.com/threads/pitchblack-recovery-for-mi-a2-lite-daisy.762/) |    ❌     |                                                              |             -             |
 
 **🔧Tools** 
 
