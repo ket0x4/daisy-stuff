@@ -102,13 +102,13 @@
 
 **Custom Recovery**
 
-|                             Name                             | Official |                           Download                           |           Notes           |
-| :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :-----------------------: |
-|                             TWRP                             |    ✔     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) | Can't install custom roms |
-|                    TWRP Offain(Fixed MTP)                    |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-daisy-3.3.1-0-offain_(FIX_USB_UNIVERSAL).zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-daisy-3.3.1-0-offain.img) |  Can't decrypt stock rom  |
-|                      OrangeFox Recovery                      |    ✔     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/OrangeFox-R10.0_2-Stable-daisy.zip) |             -             |
-| [RedWolf Recovery](https://devotag.com/threads/redwolf-recovery-for-xiaomi-mi-a2-lite-daisy.766/) |    ❌     | [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/RedWolf.img) |             -             |
-| [PitchBlack Recovery](https://devotag.com/threads/pitchblack-recovery-for-mi-a2-lite-daisy.762/) |    ❌     |                                                              |             -             |
+|                             Name                             | Official |                           Download                           |                Notes                 |
+| :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :----------------------------------: |
+|                             TWRP                             |    ✔     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) |      Can't install custom roms       |
+|                   TWRP Offain (Fixed MTP)                    |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-daisy-3.3.1-0-offain_(FIX_USB_UNIVERSAL).zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-daisy-3.3.1-0-offain.img) |       Can't decrypt stock rom        |
+|                OrangeFox Recovery (Fixed MTP)                |    ✔     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/OrangeFox-R10.0_2-Stable-daisy_(FIX_USB_UNIVERSAL).zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/ofrp.img) |                  -                   |
+| [RedWolf Recovery](https://devotag.com/threads/redwolf-recovery-for-xiaomi-mi-a2-lite-daisy.766/) |    ❌     | [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/RedWolf.img) | Advanced -> install recovery ramdisk |
+| [PitchBlack Recovery](https://devotag.com/threads/pitchblack-recovery-for-mi-a2-lite-daisy.762/) |    ❌     |                                                              |                  -                   |
 
 **🔧Tools** 
 
