@@ -49,13 +49,16 @@
 | [Evolution X](https://forum.xda-developers.com/mi-a2-lite/development/rom-evolution-x-2-0-t3942647) | [Zidan44](https://forum.xda-developers.com/member.php?u=9782219) | Outdated | [SourceForge](https://sourceforge.net/projects/evolution-x/files/daisy/) |     ❌     |
 | [CypherOS](https://forum.xda-developers.com/mi-a2-lite/development/rom-cypheros-7-0-0-poundcake-unofficial-t3947303) | [Vitor00](https://forum.xda-developers.com/member.php?u=7824261) | Outdated | [Google Drive](https://drive.google.com/open?id=1ZtJPDbI1ZlB21iMdcGtMVXVFa5WrJ9-0) |     ❌     |
 
-**📱Miui Ports**
+**📱Miui Ports** (Join Mi A2 lite MIUI [Group](https://t.me/miuidaisy) / [Channel](https://t.me/miuidaisyports))
 
-| Android Version |     Rom Name      |                        Download Link                         |
-| :-------------: | :---------------: | :----------------------------------------------------------: |
-|       9.0       |     HybridOS      | [Google Drive](https://drive.google.com/file/d/16fWuD78AvNY6ugHMBVs0iMcUodKZI2bx/view) |
-|       9.0       | Miui 11 V.11.0.4  | [Goolge Drive](https://drive.google.com/file/d/1M-eDCqCL2ypKLLa8uWAPOxzInWln5xAA/view) |
-|       9.0       | Miui EU V11.0.5.0 | [Goolge Drive](https://drive.google.com/file/d/1-2htTk67oHQ9OuaKOxDWUJsiZDvs69sF/view) |
+|                          Rom Name                          | Android Version |               Maintainer                |                        Download Link                         |
+| :--------------------------------------------------------: | :-------------: | :-------------------------------------: | :----------------------------------------------------------: |
+|   [MIUI 12 EU Weekly (20.6.11)](https://t.me/miuidaisy)    |       9.0       | [Avengerhood](https://t.me/Avengerhood) | [Google Drive](https://drive.google.com/file/d/1-GBxjF94cnsI5Tx4eHP1ZfjxOtFyzPrs/view?usp=drivesdk) |
+| [MIUI Xiaomi EU 11.0.6.0](https://t.me/miuidaisyports/106) |       9.0       | [Avengerhood](https://t.me/Avengerhood) | [Google Drive](https://drive.google.com/file/d/1-2RAl23tr7Dd4as35VEF7OcBkACfZ_RQ/view?usp=sharing) |
+|   [Xiaomi.EU 11.0.6.0](https://t.me/miuidaisyports/105)    |       9.0       | [Avengerhood](https://t.me/Avengerhood) | [Google drive](https://drive.google.com/file/d/1-DTSevZkq1kcqc4DM5FhKw0FO9Jw7yqf/view?usp=sharing) |
+|             [HybridOS](https://t.me/miuidaisy)             |       9.0       |                    -                    | [Google Drive](https://drive.google.com/file/d/16fWuD78AvNY6ugHMBVs0iMcUodKZI2bx/view) |
+|         [Miui 11 V.11.0.4](https://t.me/miuidaisy)         |       9.0       |                    -                    | [Goolge Drive](https://drive.google.com/file/d/1M-eDCqCL2ypKLLa8uWAPOxzInWln5xAA/view) |
+|        [Miui EU V11.0.5.0](https://t.me/miuidaisy)         |       9.0       |                    -                    | [Goolge Drive](https://drive.google.com/file/d/1-2htTk67oHQ9OuaKOxDWUJsiZDvs69sF/view) |
 
 
 
