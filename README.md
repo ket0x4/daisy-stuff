@@ -119,3 +119,4 @@
 |        QPTS         |  2.7.480   | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QPST.zip) |
 |        QFIL         |  2.0.2.3   | [Gtihub](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QFIL.zip) |
 
+Created for daisy community. Feel free to use, kang, fork, clone etc. Sometimes I can miss some roms. pls open [issue](https://github.com/TheDoop/daisy-stuff)
