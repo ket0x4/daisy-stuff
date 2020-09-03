@@ -51,7 +51,7 @@
 | [Evolution X](https://forum.xda-developers.com/mi-a2-lite/development/rom-evolution-x-2-0-t3942647) | [Zidan44](https://forum.xda-developers.com/member.php?u=9782219) | Outdated | [SourceForge](https://sourceforge.net/projects/evolution-x/files/daisy/) |     ❌     |
 | [CypherOS](https://forum.xda-developers.com/mi-a2-lite/development/rom-cypheros-7-0-0-poundcake-unofficial-t3947303) | [Vitor00](https://forum.xda-developers.com/member.php?u=7824261) | Outdated | [Google Drive](https://drive.google.com/open?id=1ZtJPDbI1ZlB21iMdcGtMVXVFa5WrJ9-0) |     ❌     |
 
-**📱MemeUI Ports** (Join Mi A2 lite MIUI [Group](https://t.me/miuidaisy) / [Channel](https://t.me/miuidaisyports))
+**📱MIUI Ports** (Join Mi A2 lite MIUI [Group](https://t.me/miuidaisy) / [Channel](https://t.me/miuidaisyports))
 
 |                          Rom Name                          | Android Version |               Maintainer                |                        Download Link                         |
 | :--------------------------------------------------------: | :-------------: | :-------------------------------------: | :----------------------------------------------------------: |
@@ -71,12 +71,12 @@
 | [Reborn kernel](https://forum.xda-developers.com/mi-a2-lite/development/msm8953-c-f-4-9-kernel-t4033815) |    ✅    |           10.0            |        4.9.x         |   Custom Roms   | [Github](https://github.com/RebornDaisyProject/daisy_msm8953/releases) / [Telegram](https://t.me/loki_kernel) |
 |         [Sleepy kernel](https://t.me/Laciakerneltg)          |    ✅    |           10.0            |        4.9.x         |   Custom Roms   |              [Telegram](https://t.me/vimbvince)              |
 | [Kernel [CAF Q]](https://forum.xda-developers.com/mi-a2-lite/development/kernel-daisy-q-oss-caf-rebase-fixed-t4067329) |    ✅    |           10.0            |         3.18         | GSI /Stock Roms | [Gtihub](https://github.com/Aarqw12/kernel_xiaomi_daisy-1/releases) |
+| [Revvz Kernel](https://forum.xda-developers.com/mi-a2-lite/development/v1-revvz-kernel-t4015937) |    ✅    |           10.0            |         4.9          |   Custom Roms   |            [Telegram](https://t.me/RevvzChannel)             |
 | [Loki Caf](https://forum.xda-developers.com/mi-a2-lite/development/msm8953-c-f-4-9-kernel-t4033815) |    ❌    |           10.0            |         4.9          |   Custom Roms   |  [Github](https://github.com/Aarqw12/kernel_loki/releases/)  |
 | [Chunchunmaru!](https://forum.xda-developers.com/mi-a2-lite/development/chunchunmaru-kernel-daisy-t4054441) |    ❌    |           10.0            |         4.9          |   Custom Roms   | [Google Drive](https://drive.google.com/file/d/17l7_jyHRAmVQv5PVsr68yXeWSPpD_Jj6/view) |
 | [Nitrogen Kernel](https://forum.xda-developers.com/mi-a2-lite/development/r1-nitrogen-kernel-mi-a2-lite-t4011019) |    ❌    |           10.0            |        4.9.x         |   Custom Roms   | [AFH](https://www.androidfilehost.com/?w=files&flid=302702)  |
 | [Kernel 3.18 CAF](https://forum.xda-developers.com/mi-a2-lite/development/kernel-daisy-q-oss-caf-rebase-fixed-t4067329) |    ❌    |           10.0            |         3.18         |    Stock Rom    | [Gtihub](https://github.com/Aarqw12/kernel_xiaomi_daisy-1/releases/) |
 | [Dragonheart CAF](https://forum.xda-developers.com/mi-a2-lite/development/kernel-dragonheart-msm-caf-3-18-140-t3939288) |    ❌    |            9.0            |         3.18         |        ❔        |     [Yandex Disk](https://yadi.sk/d/b9IGc5vYXtMJdg/v3.3)     |
-| [Revvz Kernel](https://forum.xda-developers.com/mi-a2-lite/development/v1-revvz-kernel-t4015937) |    ❌    |             ❔             |         4.9          |   Custom Roms   | [MediaFire](http://www.mediafire.com/file/x5gq5dn0ha09rpd/revvz_kernel_4.9_v1_daisy.zip/file) |
 
 📱 **Stock Roms**
 
