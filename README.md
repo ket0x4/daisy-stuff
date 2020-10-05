@@ -80,11 +80,11 @@
 
 **Custom Recovery**
 
-|                    Name                     | Official |                           Download                           |                      Notes                      |
-| :-----------------------------------------: | :------: | :----------------------------------------------------------: | :---------------------------------------------: |
-|                    TWRP                     |    ✅     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) | Can't install custom roms, good for GSI / Stock |
-| TWRP 3.4 by [runrunrun00](t.me/runrunrun00) |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-3.4.0.0-daisy.zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-3.4.0.0-daisy.img) |      Recommended for A11, A10 Custom roms       |
-|             OrangeFox Recovery              |    ✅     | [Installer](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11-Stable-daisy_Custom-Install_v4.zip) / [Bootable](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11.0-Stable-daisy.img) |      Recommended for A11, A10 Custom roms       |
+|        Name        | Official |                           Download                           |                      Notes                      |
+| :----------------: | :------: | :----------------------------------------------------------: | :---------------------------------------------: |
+|        TWRP        |    ✅     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) | Can't install custom roms, good for GSI / Stock |
+|    TWRP 3.4 by     |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-3.4.0.0-daisy.zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-3.4.0.0-daisy.img) |      Recommended for A11, A10 Custom roms       |
+| OrangeFox Recovery |    ✅     | [Installer](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11-Stable-daisy_Custom-Install_v4.zip) / [Bootable](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11.0-Stable-daisy.img) |      Recommended for A11, A10 Custom roms       |
 
 **🔧Tools** 
 
