@@ -84,16 +84,15 @@
 | :-----------------------------------------: | :------: | :----------------------------------------------------------: | :---------------------------------------------: |
 |                    TWRP                     |    ✅     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) | Can't install custom roms, good for GSI / Stock |
 | TWRP 3.4 by [runrunrun00](t.me/runrunrun00) |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-3.4.0.0-daisy.zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-3.4.0.0-daisy.img) |      Recommended for A11, A10 Custom roms       |
-|             OrangeFox Recovery              |    ✅     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/OrangeFox-NYA!-r11-Stable-daisy-By_TogoFire.zip) |      Recommended for A11, A10 Custom roms       |
+|             OrangeFox Recovery              |    ✅     | [Installer](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11-Stable-daisy_Custom-Install_v4.zip) / [Bootable](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11.0-Stable-daisy.img) |      Recommended for A11, A10 Custom roms       |
 
 **🔧Tools** 
 
-| Tool                | Version    | Download                                                                                 |
-|:-------------------:|:----------:|:----------------------------------------------------------------------------------------:|
+|        Tool         |  Version   |                           Download                           |
+| :-----------------: | :--------: | :----------------------------------------------------------: |
 | Mi Flash tool amd64 | 2016.04.01 | [Github](https://raw.githubusercontent.com/TheDoop/daisy-stuff/master/tools/MiPhone.exe) |
-| Mi Flash tool       | 7.4.25     | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/MiFlashSetup_eng.msi)   |
-| QPTS                | 2.7.480    | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QPST.zip)               |
-| QFIL                | 2.0.2.3    | [Gtihub](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QFIL.zip)               |
+|    Mi Flash tool    |   7.4.25   | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/MiFlashSetup_eng.msi) |
+|        QPTS         |  2.7.480   | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QPST.zip) |
 
 **Guides:**
 
