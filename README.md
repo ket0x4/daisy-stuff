@@ -80,14 +80,11 @@
 
 **Custom Recovery**
 
-|                             Name                             | Official |                           Download                           |                Notes                 |
-| :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | :----------------------------------: |
-|                             TWRP                             |    ✅     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) |      Can't install custom roms       |
-|                    OrangeFox Recovery r11                    |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/OrangeFox-NYA!-r11-Stable-daisy-By_TogoFire.zip) |                  -                   |
-|                   TWRP Offain (Fixed MTP)                    |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-daisy-3.3.1-0-offain_(FIX_USB_UNIVERSAL).zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-daisy-3.3.1-0-offain.img) |       Can't decrypt stock rom        |
-|                           TWRP 3.4                           |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-3.4.0.0-daisy.zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-3.4.0.0-daisy.img) |         USB MTP not working          |
-| [RedWolf Recovery](https://devotag.com/threads/redwolf-recovery-for-xiaomi-mi-a2-lite-daisy.766/) |    ❌     | [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/RedWolf.img) | Advanced -> install recovery ramdisk |
-| [PitchBlack Recovery](https://devotag.com/threads/pitchblack-recovery-for-mi-a2-lite-daisy.762/) |    ❌     |                              -                               |                  -                   |
+|                    Name                     | Official |                           Download                           |                      Notes                      |
+| :-----------------------------------------: | :------: | :----------------------------------------------------------: | :---------------------------------------------: |
+|                    TWRP                     |    ✅     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) | Can't install custom roms, good for GSI / Stock |
+| TWRP 3.4 by [runrunrun00](t.me/runrunrun00) |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-3.4.0.0-daisy.zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-3.4.0.0-daisy.img) |      Recommended for A11, A10 Custom roms       |
+|             OrangeFox Recovery              |    ✅     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/OrangeFox-NYA!-r11-Stable-daisy-By_TogoFire.zip) |      Recommended for A11, A10 Custom roms       |
 
 **🔧Tools** 
 
@@ -100,6 +97,6 @@
 
 **Guides:**
 
-[Install platform-tools(ADB & Fastboot) to Windows 10](https://ibrahimyondemli.com.tr/platformtoolswin10/)
+[Install platform-tools(ADB & Fastboot) to Windows 10](https://caticer.github.io/platformtoolswin10/)
 
 *Created for daisy community. Feel free to use, kang, fork, clone etc. Sometimes I can miss some roms. pls open [issue](https://github.com/TheDoop/daisy-stuff)*
