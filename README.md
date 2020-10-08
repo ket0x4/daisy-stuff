@@ -12,7 +12,7 @@
 | [Aosp Extended](https://forum.xda-developers.com/mi-a2-lite/development/rom-aospextended-rom-v7-0-t4051329) | [acras1](https://forum.xda-developers.com/member.php?u=5583941) | [aospextended.com](https://downloads.aospextended.com/daisy) |     ✅      |    ✅     |  ✅   |
 | [Havoc OS](https://forum.xda-developers.com/mi-a2-lite/development/stable-havoc-os-rom-t4098041) | [lupesoltec](https://forum.xda-developers.com/member.php?u=8461838) | [Sourceforge](https://sourceforge.net/projects/havoc-os/files/daisy/) |     ✅      |    ✅     |  ❌   |
 | [MSM Xtended XQ](https://forum.xda-developers.com/mi-a2-lite/development/stable-msm-xtended-xq-release-v6-0-t4063845) | [TogoFire](https://forum.xda-developers.com/member.php?u=4230687) | [msmxtended.org](https://downloads.msmxtended.org/?dir=daisy) |     ✅      |    ✅     |  ✅   |
-| [LineageOS 17.1](https://forum.xda-developers.com/mi-a2-lite/development/lineageos-17-1-xiaomi-a2-lite-t4076439) | [reujea0](https://forum.xda-developers.com/member.php?u=7249498) | [Github](https://github.com/a-huk/otaserver/releases/download/07/lineage-17.1-20200916-UNOFFICIAL-daisy.zip) |     ✅      |    ❌     |  ✅   |
+| [LineageOS 17.1](https://forum.xda-developers.com/mi-a2-lite/development/lineageos-17-1-xiaomi-a2-lite-t4076439) | [reujea0](https://forum.xda-developers.com/member.php?u=7249498) | [GitHub](https://github.com/a-huk/otaserver/releases/download/07/lineage-17.1-20200916-UNOFFICIAL-daisy.zip) |     ✅      |    ❌     |  ✅   |
 | [POSP](https://forum.xda-developers.com/mi-a2-lite/development/10-0-posp-v3-q-daisy-t4011191) | [lacia-chan](https://forum.xda-developers.com/member.php?u=8295328) | [Google Drive](https://drive.google.com/file/d/1xKgi5CTyIu4__e2WlF_CId89KV_QAIWp/view?usp=sharing) |     ✅      |    ✅     |  ❌   |
 | [Bliss Rom](https://forum.xda-developers.com/mi-a2-lite/development/10-0-bliss-rom-v12-5-xiaomi-mi-a2-lite-t4072705) | [krzy12](https://forum.xda-developers.com/member.php?u=5938081) | [Sourceforge](https://sourceforge.net/projects/blissroms/files/Q/daisy/) |     ✅      |    ✅     |  ❔   |
 | [AOSiP DerpFest](https://forum.xda-developers.com/mi-a2-lite/development/official-aosip-derpfest-rom-mi-a2-lite-t4151523) | [Hotorou](https://forum.xda-developers.com/member.php?u=10763893) | [Official](https://get.derpfest.org/) / [Xda](https://forum.xda-developers.com/mi-a2-lite/development/official-aosip-derpfest-rom-mi-a2-lite-t4151523) |     ✅      |    ✅     |  ❔   |
@@ -40,7 +40,7 @@
 | [Resurrection Remix](https://forum.xda-developers.com/mi-a2-lite/development/9-0-resurrection-remix-v7-0-2-xiaomi-mi-t3926922) | [davidrocher](https://forum.xda-developers.com/member.php?u=8220724) | [Resurrection Web](https://get.resurrectionremix.com/?dir=daisy) |
 | [Lineage OS 16](https://forum.xda-developers.com/mi-a2-lite/development/lineageos-16-0-xiaomi-mi-a2-lite-t3919060) | [33bca](https://forum.xda-developers.com/member.php?u=5296790) | [AFH](https://androidfilehost.com/?fid=6006931924117920053)  |
 | [Superios OS](https://forum.xda-developers.com/mi-a2-lite/development/9-0-superioros-xiaomi-mi-a2-lite-t3946434) | [pawelik001](https://forum.xda-developers.com/member.php?u=8419529) | [Sourceforge](https://sourceforge.net/projects/superioros/files/daisy/) |
-| [barebones Los 16](https://forum.xda-developers.com/mi-a2-lite/development/rom-barebones-lineageos-16-0-t3931121) | [Eskuero](https://forum.xda-developers.com/member.php?u=4495609) | [Github](https://github.com/Eskuero/patches_lineageos/releases) |
+| [barebones Los 16](https://forum.xda-developers.com/mi-a2-lite/development/rom-barebones-lineageos-16-0-t3931121) | [Eskuero](https://forum.xda-developers.com/member.php?u=4495609) | [GitHub](https://github.com/Eskuero/patches_lineageos/releases) |
 | [Paranoid Android](https://forum.xda-developers.com/mi-a2-lite/development/paranoid-android-pie-beta-xiaomi-mi-a2-t3912880) | [33bca](https://forum.xda-developers.com/member.php?u=5296790) | [AFH](https://androidfilehost.com/?fid=1395089523397933724)  |
 | [Evolution X](https://forum.xda-developers.com/mi-a2-lite/development/rom-evolution-x-2-0-t3942647) | [Zidan44](https://forum.xda-developers.com/member.php?u=9782219) | [SourceForge](https://sourceforge.net/projects/evolution-x/files/daisy/) |
 | [CypherOS](https://forum.xda-developers.com/mi-a2-lite/development/rom-cypheros-7-0-0-poundcake-unofficial-t3947303) | [Vitor00](https://forum.xda-developers.com/member.php?u=7824261) | [Google Drive](https://drive.google.com/open?id=1ZtJPDbI1ZlB21iMdcGtMVXVFa5WrJ9-0) |
@@ -50,24 +50,24 @@
 |                          Rom Name                          | Android Version |               Maintainer                |                        Download Link                         |
 | :--------------------------------------------------------: | :-------------: | :-------------------------------------: | :----------------------------------------------------------: |
 |    [MIUI 12 04.08.2020](https://t.me/newsmia2lite/410)     |      10.0       | [Avengerhood](https://t.me/Avengerhood) |          [Telegram](https://t.me/newsmia2lite/410)           |
-|  [MIUI 12.0.1.0 EU STABLE](https://t.me/newsmia2lite/412)  |       9.0       | [Avengerhood](https://t.me/Avengerhood) |                       [Goolge Drive]()                       |
+|  [MIUI 12.0.1.0 EU STABLE](https://t.me/newsmia2lite/412)  |       9.0       | [Avengerhood](https://t.me/Avengerhood) |                       [Google Drive]()                       |
 |   [MIUI 12 EU Weekly (20.6.11)](https://t.me/miuidaisy)    |       9.0       | [Avengerhood](https://t.me/Avengerhood) | [Google Drive](https://drive.google.com/file/d/1-GBxjF94cnsI5Tx4eHP1ZfjxOtFyzPrs/view?usp=drivesdk) |
 | [MIUI Xiaomi EU 11.0.6.0](https://t.me/miuidaisyports/106) |       9.0       | [Avengerhood](https://t.me/Avengerhood) | [Google Drive](https://drive.google.com/file/d/1-2RAl23tr7Dd4as35VEF7OcBkACfZ_RQ/view?usp=sharing) |
 |   [Xiaomi.EU 11.0.6.0](https://t.me/miuidaisyports/105)    |       9.0       | [Avengerhood](https://t.me/Avengerhood) | [Google drive](https://drive.google.com/file/d/1-DTSevZkq1kcqc4DM5FhKw0FO9Jw7yqf/view?usp=sharing) |
 |             [HybridOS](https://t.me/miuidaisy)             |       9.0       |                    -                    | [Google Drive](https://drive.google.com/file/d/16fWuD78AvNY6ugHMBVs0iMcUodKZI2bx/view) |
-|         [Miui 11 V.11.0.4](https://t.me/miuidaisy)         |       9.0       |                    -                    | [Goolge Drive](https://drive.google.com/file/d/1M-eDCqCL2ypKLLa8uWAPOxzInWln5xAA/view) |
-|        [Miui EU V11.0.5.0](https://t.me/miuidaisy)         |       9.0       |                    -                    | [Goolge Drive](https://drive.google.com/file/d/1-2htTk67oHQ9OuaKOxDWUJsiZDvs69sF/view) |
+|         [Miui 11 V.11.0.4](https://t.me/miuidaisy)         |       9.0       |                    -                    | [Google Drive](https://drive.google.com/file/d/1M-eDCqCL2ypKLLa8uWAPOxzInWln5xAA/view) |
+|        [Miui EU V11.0.5.0](https://t.me/miuidaisy)         |       9.0       |                    -                    | [Google Drive](https://drive.google.com/file/d/1-2htTk67oHQ9OuaKOxDWUJsiZDvs69sF/view) |
 
 ###### **📱Kernels**
 
 |                         Kernel name                          | Updated | Supported Android Version | Linux Kernel Version | Supported Roms  |                        Download Link                         |
 | :----------------------------------------------------------: | :-----: | :-----------------------: | :------------------: | :-------------: | :----------------------------------------------------------: |
 |         [Sleepy kernel](https://t.me/Laciakerneltg)          |    ✅    |           10.0            |        4.9.x         |   Custom Roms   |              [Telegram](https://t.me/vimbvince)              |
-| [Reborn kernel](https://forum.xda-developers.com/mi-a2-lite/development/msm8953-c-f-4-9-kernel-t4033815) |    ✅    |           10.0            |        4.9.x         |   Custom Roms   | [Github](https://github.com/RebornDaisyProject/daisy_msm8953/releases) / [Telegram](https://t.me/loki_kernel) |
-| [Kernel [CAF Q]](https://forum.xda-developers.com/mi-a2-lite/development/kernel-daisy-q-oss-caf-rebase-fixed-t4067329) |    ✅    |           10.0            |         3.18         | GSI /Stock Roms | [Gtihub](https://github.com/Aarqw12/kernel_xiaomi_daisy-1/releases) |
+| [Reborn kernel](https://forum.xda-developers.com/mi-a2-lite/development/msm8953-c-f-4-9-kernel-t4033815) |    ✅    |           10.0            |        4.9.x         |   Custom Roms   | [GitHub](https://github.com/RebornDaisyProject/daisy_msm8953/releases) / [Telegram](https://t.me/loki_kernel) |
+| [Kernel [CAF Q]](https://forum.xda-developers.com/mi-a2-lite/development/kernel-daisy-q-oss-caf-rebase-fixed-t4067329) |    ✅    |           10.0            |         3.18         | GSI /Stock Roms | [GitHub](https://github.com/Aarqw12/kernel_xiaomi_daisy-1/releases) |
 | [Revvz Kernel](https://forum.xda-developers.com/mi-a2-lite/development/v1-revvz-kernel-t4015937) |    ✅    |           10.0            |         4.9          |   Custom Roms   |            [Telegram](https://t.me/RevvzChannel)             |
 | [Dragonheart](https://forum.xda-developers.com/mi-a2-lite/development/kernel-dragonheart-msm-caf-3-18-140-t3939288) |    ✅    |         9.0 / 8.1         |         3.18         |       GSI       |     [Yandex Disk](https://yadi.sk/d/b9IGc5vYXtMJdg/v3.3)     |
-| [Kernel 3.18](https://forum.xda-developers.com/mi-a2-lite/development/kernel-daisy-q-oss-caf-rebase-fixed-t4067329) |    ✅    |           10.0            |         3.18         |    Stock Rom    | [Gtihub](https://github.com/Aarqw12/kernel_xiaomi_daisy-1/releases/) |
+| [Kernel 3.18](https://forum.xda-developers.com/mi-a2-lite/development/kernel-daisy-q-oss-caf-rebase-fixed-t4067329) |    ✅    |           10.0            |         3.18         |    Stock Rom    | [GitHub](https://github.com/Aarqw12/kernel_xiaomi_daisy-1/releases/) |
 
 📱 **Stock Roms**
 
@@ -83,16 +83,17 @@
 |        Name        | Official |                           Download                           |                      Notes                      |
 | :----------------: | :------: | :----------------------------------------------------------: | :---------------------------------------------: |
 |        TWRP        |    ✅     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) | Can't install custom roms, good for GSI / Stock |
-|    TWRP 3.4 by     |    ❌     | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-3.4.0.0-daisy.zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-3.4.0.0-daisy.img) |      Recommended for A11, A10 Custom roms       |
-| OrangeFox Recovery |    ✅     | [Installer](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11-Stable-daisy_Custom-Install_v4.zip) / [Bootable](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11.0-Stable-daisy.img) |      Recommended for A11, A10 Custom roms       |
+|    TWRP 3.4 by     |    ❌     | [Installer](https://github.com/Caticer/daisy-stuff/raw/master/recovery/twrp-3.4.0-rc-final-daisy.zip) / [Bootable](https://github.com/Caticer/daisy-stuff/raw/master/recovery/twrp-3.4.0-rc-final-daisy.img) |      Recommended for A11, A10 Custom roms       |
+| OrangeFox Recovery |    ✅     | [Installer](https://github.com/Caticer/daisy-stuff/raw/master/recovery/OrangeFox-R11-Stable-daisy_Custom-Install_v4.zip) / [Bootable](https://github.com/Caticer/daisy-stuff/raw/master/recovery/OrangeFox-R11.0-Stable-daisy.img) |      Recommended for A11, A10 Custom roms      |
 
 **🔧Tools** 
 
 |        Tool         |  Version   |                           Download                           |
 | :-----------------: | :--------: | :----------------------------------------------------------: |
-| Mi Flash tool amd64 | 2016.04.01 | [Github](https://raw.githubusercontent.com/TheDoop/daisy-stuff/master/tools/MiPhone.exe) |
-|    Mi Flash tool    |   7.4.25   | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/MiFlashSetup_eng.msi) |
-|        QPTS         |  2.7.480   | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QPST.zip) |
+| Mi Flash tool amd64 | 2016.04.01 | [GitHub](https://github.com/Caticer/daisy-stuff/raw/master/tools/MiPhone.exe) |
+|    Mi Flash tool    |   7.4.25   | [GitHub](https://github.com/Caticer/daisy-stuff/raw/master/tools/MiFlashSetup_eng.msi) |
+|        QPTS         |  2.7.480   | [GitHub](https://github.com/Caticer/daisy-stuff/raw/master/tools/QPST.zip) |
+
 
 **Guides:**
 
