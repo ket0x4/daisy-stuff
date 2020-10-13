@@ -71,12 +71,13 @@
 
 📱 **Stock Roms**
 
-| Android Version |   Type   | Build number |                           Download                           |       Recommended       |
-| :-------------: | :------: | :----------: | :----------------------------------------------------------: | :---------------------: |
-|       10        | Fastboot |  V11.0.7.0   | [miui.com](https://bigota.d.miui.com/V11.0.7.0.QDLMIXM/daisy_global_images_V11.0.7.0.QDLMIXM_20200617.0000.00_10.0_7d0ffb82ac.tgz) |     For Q Roms base     |
-|       9.0       | Fastboot |  V10.0.18.0  | [miui.com](http://bigota.d.miui.com/V10.0.18.0.PDLMIXM/daisy_global_images_V10.0.18.0.PDLMIXM_20200109.0000.00_9.0_a7b709656c.tgz) | For Q and pie roms base |
-|       8.1       | Fastboot |  V9.6.11.0   | [miui.com](http://bigota.d.miui.com/V9.6.11.0.ODLMIFF/daisy_global_images_V9.6.11.0.ODLMIFF_20181112.0000.00_8.1_8028e3bf1c.tgz) |      For GSI base       |
-|       8.1       | Fastboot |   V9.6.4.0   | [miui.com](http://bigota.d.miui.com/V9.6.4.0.ODLMIFF/daisy_global_images_V9.6.4.0.ODLMIFF_20180724.0000.00_8.1_4afd3431a2.tgz) |      For GSI base       |
+| Android Version |   Type   | Build number |                           Download                           |           Recommended            |
+| :-------------: | :------: | :----------: | :----------------------------------------------------------: | :------------------------------: |
+|       10        | Fastboot |  V11.0.11.0  | [miui.com](https://bigota.d.miui.com/V11.0.11.0.QDLMIXM/miui_DAISYGlobal_V11.0.11.0.QDLMIXM_5a0d0cf932_10.0.zip) |         For Q Roms base          |
+|       10        | Fastboot |  V11.0.2.0   |             [miui.com](https://cutt.ly/xgaDLi2)              | Recommended for FTS screen users |
+|       9.0       | Fastboot |  V10.0.18.0  | [miui.com](http://bigota.d.miui.com/V10.0.18.0.PDLMIXM/daisy_global_images_V10.0.18.0.PDLMIXM_20200109.0000.00_9.0_a7b709656c.tgz) |     For Q and pie roms base      |
+|       8.1       | Fastboot |  V9.6.11.0   | [miui.com](http://bigota.d.miui.com/V9.6.11.0.ODLMIFF/daisy_global_images_V9.6.11.0.ODLMIFF_20181112.0000.00_8.1_8028e3bf1c.tgz) |           For GSI base           |
+|       8.1       | Fastboot |   V9.6.4.0   | [miui.com](http://bigota.d.miui.com/V9.6.4.0.ODLMIFF/daisy_global_images_V9.6.4.0.ODLMIFF_20180724.0000.00_8.1_4afd3431a2.tgz) |           For GSI base           |
 
 **Custom Recovery**
 
