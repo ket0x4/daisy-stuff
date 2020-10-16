@@ -71,20 +71,22 @@
 
 📱 **Stock Roms**
 
-| Android Version |   Type   | Build number |                           Download                           |       Recommended       |
-| :-------------: | :------: | :----------: | :----------------------------------------------------------: | :---------------------: |
-|       10        | Fastboot |  V11.0.7.0   | [miui.com](https://bigota.d.miui.com/V11.0.7.0.QDLMIXM/daisy_global_images_V11.0.7.0.QDLMIXM_20200617.0000.00_10.0_7d0ffb82ac.tgz) |     For Q Roms base     |
-|       9.0       | Fastboot |  V10.0.18.0  | [miui.com](http://bigota.d.miui.com/V10.0.18.0.PDLMIXM/daisy_global_images_V10.0.18.0.PDLMIXM_20200109.0000.00_9.0_a7b709656c.tgz) | For Q and pie roms base |
-|       8.1       | Fastboot |  V9.6.11.0   | [miui.com](http://bigota.d.miui.com/V9.6.11.0.ODLMIFF/daisy_global_images_V9.6.11.0.ODLMIFF_20181112.0000.00_8.1_8028e3bf1c.tgz) |      For GSI base       |
-|       8.1       | Fastboot |   V9.6.4.0   | [miui.com](http://bigota.d.miui.com/V9.6.4.0.ODLMIFF/daisy_global_images_V9.6.4.0.ODLMIFF_20180724.0000.00_8.1_4afd3431a2.tgz) |      For GSI base       |
+| Android Version |   Type   | Build number |                           Download                           |           Recommended            |
+| :-------------: | :------: | :----------: | :----------------------------------------------------------: | :------------------------------: |
+|       10        | Fastboot |  V11.0.11.0  | [miui.com](https://bigota.d.miui.com/V11.0.11.0.QDLMIXM/miui_DAISYGlobal_V11.0.11.0.QDLMIXM_5a0d0cf932_10.0.zip) |         For Q Roms base          |
+|       10        | Fastboot |  V11.0.2.0   |             [miui.com](https://cutt.ly/xgaDLi2)              | Recommended for FTS screen users |
+|       9.0       | Fastboot |  V10.0.18.0  | [miui.com](http://bigota.d.miui.com/V10.0.18.0.PDLMIXM/daisy_global_images_V10.0.18.0.PDLMIXM_20200109.0000.00_9.0_a7b709656c.tgz) |     For Q and pie roms base      |
+|       8.1       | Fastboot |  V9.6.11.0   | [miui.com](http://bigota.d.miui.com/V9.6.11.0.ODLMIFF/daisy_global_images_V9.6.11.0.ODLMIFF_20181112.0000.00_8.1_8028e3bf1c.tgz) |           For GSI base           |
+|       8.1       | Fastboot |   V9.6.4.0   | [miui.com](http://bigota.d.miui.com/V9.6.4.0.ODLMIFF/daisy_global_images_V9.6.4.0.ODLMIFF_20180724.0000.00_8.1_4afd3431a2.tgz) |           For GSI base           |
 
 **Custom Recovery**
 
-|        Name        | Official |                           Download                           |                      Notes                      |
-| :----------------: | :------: | :----------------------------------------------------------: | :---------------------------------------------: |
-|        TWRP        |    ✅     | [Installer](https://eu.dl.twrp.me/daisy/twrp-installer-daisy-3.2.3-0.zip.html) / [Bootable](https://eu.dl.twrp.me/daisy/twrp-3.3.0-0-daisy.img.html) | Can't install custom roms, good for GSI / Stock |
-|    TWRP 3.4 by     |    ❌     | [Installer](https://github.com/Caticer/daisy-stuff/raw/master/recovery/twrp-3.4.0-rc-final-daisy.zip) / [Bootable](https://github.com/Caticer/daisy-stuff/raw/master/recovery/twrp-3.4.0-rc-final-daisy.img) |      Recommended for A11, A10 Custom roms       |
-| OrangeFox Recovery |    ✅     | [Installer](https://github.com/Caticer/daisy-stuff/raw/master/recovery/OrangeFox-R11-Stable-daisy_Custom-Install_v4.zip) / [Bootable](https://github.com/Caticer/daisy-stuff/raw/master/recovery/OrangeFox-R11.0-Stable-daisy.img) |      Recommended for A11, A10 Custom roms      |
+
+|           Name           |                           Download                           |                Notes                 |
+| :----------------------: | :----------------------------------------------------------: | :----------------------------------: |
+| TWRP 3.4 by @runrunrun00 | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-3.4.0.0-daisy.zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-3.4.0.0-daisy.img) | Recommended for A11, A10 Custom roms |
+|    OrangeFox Recovery    | [Installer](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11-Stable-daisy_Custom-Install_v4.zip) / [Bootable](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11.0-Stable-daisy.img) | Recommended for A11, A10 Custom roms |
+
 
 **🔧Tools** 
 
