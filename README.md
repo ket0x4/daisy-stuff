@@ -97,6 +97,7 @@
 
 |           Name           |                           Download                           |                Notes                 |
 | :----------------------: | :----------------------------------------------------------: | :----------------------------------: |
+| TWRP 3.5 by LinkBoi00    | [Installer and bootable](https://github.com/LinkBoi00/twrp_device_xiaomi_daisy/releases) | Recommended for Havoc |
 | TWRP 3.4 by @runrunrun00 | [Installer](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-installer-3.4.0.0-daisy.zip) / [Bootable](https://github.com/TheDoop/daisy-stuff/raw/master/recovery/twrp-3.4.0.0-daisy.img) | Recommended for A11, A10 Custom roms |
 |    OrangeFox Recovery    | [Installer](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11-Stable-daisy_Custom-Install_v4.zip) / [Bootable](https://raw.githubusercontent.com/Caticer/daisy-stuff/master/recovery/OrangeFox-R11.0-Stable-daisy.img) | Recommended for A11, A10 Custom roms |
 
