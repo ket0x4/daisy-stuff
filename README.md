@@ -38,7 +38,7 @@
 | [Superior OS](https://forum.xda-developers.com/mi-a2-lite/development/10-superioros-xiaomi-mi-a2-lite-t3998109) | [pawelik001](https://forum.xda-developers.com/member.php?u=8419529) | [Sourceforge](https://sourceforge.net/projects/superioros/files/daisy/) |
 | [crDROID Rom](https://forum.xda-developers.com/mi-a2-lite/development/stable-crdroid-rom-t4145515) | [opal06](https://forum.xda-developers.com/member.php?u=8661641) |           [crdroid.net](https://crdroid.net/daisy)           |
 |            [Lineage OS](https://t.me/fdoopstuff)             |              [Caticer](https://t.me/fdoopstuff)              |             [Telegram](https://t.me/fdoopstuff)              |
-|                     [/e/ OS Q](/e/ OS Q)                     |              [Caticer](https://t.me/fdoopstuff)              |             [Telegram](https://t.me/fdoopstuff)              |
+|                     /e/ OS Q                     |              [Caticer](https://t.me/fdoopstuff)              |             [Telegram](https://t.me/fdoopstuff)              |
 | [Resurrection Remix OS](https://t.me/newsmia2lite/480?single) |                        scarymen1325*                         |       [Telegram](https://t.me/newsmia2lite/480?single)       |
 | [AOSiP Quiche](https://forum.xda-developers.com/mi-a2-lite/development/rom-aosip-quiche-t4159397) | [Hellyx](https://forum.xda-developers.com/member.php?u=10642995) | [Sourceforge](https://sourceforge.net/projects/aosipdaisy/files/daisy/) |
 | [Bootleggers ROM](https://forum.xda-developers.com/mi-a2-lite/development/bootleggers-rom-mi-a2-liteunofficial-t4122801) | [Hotorou](https://forum.xda-developers.com/member.php?u=10763893) | [Sourceforge](https://sourceforge.net/projects/zunayed-builds/files/Bootleg/daisy/) |
