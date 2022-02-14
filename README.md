@@ -2,8 +2,9 @@
 
 |                    Rom name / Forum link                     |                          Maintainer                          |                        Download link                         | Last Update | Official | OTA  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: | :------: | :--: |
-| [ArrowOS 12.0](https://forum.xda-developers.com/t/rom-11-0-0_r33-arrowos-11-0-community.4242847/) | [acras1](https://forum.xda-developers.com/m/acras1.5583941/) |       [Arrowos.net](https://arrowos.net/download.php)        | 15.11.2021  |    ✅     |  ✅   |
+| [ArrowOS 12.0](https://forum.xda-developers.com/t/rom-11-0-0_r33-arrowos-11-0-community.4242847/) | [acras1](https://forum.xda-developers.com/m/acras1.5583941/) |       [Arrowos.net](https://arrowos.net/download.php)        | 06.02.2022  |    ✅     |  ✅   |
 |         [Aosp Extended v9.0](https://t.me/daisa/51)          |                    [geopd](t.me/mysto_o)                     | [Gapps](https://sourceforge.net/projects/mysto-roms/files/AEX/AospExAospExtended-v9.0-sakura-UNOFFICIAL-20211112-GAPPS.zip/download) / [Vanilla](https://sourceforge.net/projects/mysto-roms/files/AEX/AospExAospExtended-v9.0-sakura-UNOFFICIAL-20211112-VANILLA.zip/download) | 13.11.2021  |    ❌     |  ❌   |
+| [crDroid v8.2](https://forum.xda-developers.com/t/official-monthly-a12-crdroid-v8-2-xiaomi-mi-a2-lite-daisy.4401933/) | [LinkBoi](https://forum.xda-developers.com/m/linkboi.9449613/) |       [crDroid.net](https://crdroid.net/daisy/8)        | 12.02.2022  |    ✅     |  ✅   |
 
 **📱Android 11 Custom Roms**
 
