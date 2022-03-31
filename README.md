@@ -6,7 +6,8 @@
 |         [Aosp Extended v9.0](https://t.me/daisa/51)          |                    [geopd](t.me/mysto_o)                     | [Gapps](https://sourceforge.net/projects/mysto-roms/files/AEX/AospExAospExtended-v9.0-sakura-UNOFFICIAL-20211112-GAPPS.zip/download) / [Vanilla](https://sourceforge.net/projects/mysto-roms/files/AEX/AospExAospExtended-v9.0-sakura-UNOFFICIAL-20211112-VANILLA.zip/download) | 13.11.2021  |    ❌     |  ❌   |
 | [crDroid v8.2](https://forum.xda-developers.com/t/official-monthly-a12-crdroid-v8-2-xiaomi-mi-a2-lite-daisy.4401933/) | [LinkBoi](https://forum.xda-developers.com/m/linkboi.9449613/) |       [crDroid.net](https://crdroid.net/daisy/8)        | 12.02.2022  |    ✅     |  ✅   |
 |          [DerpFest](https://forum.xda-developers.com/t/official-a12-derpfest-rom-for-mi-a2-lite.4151523/)           |               [Hotorou](https://t.me/hotorou)                | [SourceForge](https://sourceforge.net/projects/derpfest/files/daisy/DerpFest-12-Official-Shion-daisy-20220208-1529.zip/download) | 08.02.2022  |    ✅     |  ✅  |
-|[OctaviOS](https://t.me/GitDaisyShitposting)|GitDaisy|[OctaviOS](https://octavi-os.com/downloads)|2022.01.25|✅|❔|
+| [OctaviOS](https://t.me/GitDaisyShitposting) | GitDaisy | [OctaviOS](https://octavi-os.com/downloads) | 2022.01.25 | ✅ | ❔ |
+| [LineageOS 19.1](https://forum.xda-developers.com/t/rom-android-12l-unofficial-lineageos-19-1-for-xiaomi-mi-a2-lite-daisy.4421213/) | [Its_Vixano](https://forum.xda-developers.com/m/its_vixano.9305611/) | [SourceForge](https://sourceforge.net/projects/itsvixano-projects/files/daisy/Lineage-19.1/) | 2022.03.30 | ❌ | ❔ |
 
 \* You need to flash the ROM to both slots to able to update through OTA (yeah I'm serious).
 
